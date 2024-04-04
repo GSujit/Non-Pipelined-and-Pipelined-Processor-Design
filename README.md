@@ -96,3 +96,7 @@ Similarly, the output will be printed from the starting of the output address in
     - Prints values stored in data memory and registers after simulation.
 
 Finally, we observe that clock cycles in the non-pipelined processor and pipelined processor differ. The pipelined processor's clock cycles are typically fewer than the non-pipelined processor's, given the same inputs for both machine code programs.
+
+## Team Members
+1. G Sujit
+2. A Harshit
